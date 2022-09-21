@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kristian - @crbonev
-- 👀 I’m interested in music production, astronomy, nature, photography 
+- 👀 I’m interested in music production, astronomy, nature, photography, sci-fi
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on everything
 - 📫 crbonev@gmail.com
