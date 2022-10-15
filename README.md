@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristian - @crbonev
-- 👀 I’m interested in music production, astronomy, nature, photography, sci-fi
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in music production, astronomy, nature, photography, sci-fi, Formula 1
+- 🌱 I’m currently learning programming and business 
+- 💞️ I’m looking to collaborate on everything python or music related
 - 📫 crbonev@gmail.com
 
 <!---
